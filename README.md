@@ -5,8 +5,8 @@ Trabajo práctico grupal de la materia Introducción a las Bases de Datos.
 ## Integrantes
 
 * Morana, Juan Ignacio
-* David Paulo Ibañez
-* Alejo Kiernan Fookes
+* Ibañez, David Paulo
+* Fookes. Alejo Kiernan
 
 ## Descripción
 
